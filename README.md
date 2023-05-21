@@ -1,6 +1,6 @@
 <h3 align='center'>Au ah males</br>minimal kasih star lah</h3>
-<p align='center'># sebelum menjalankan tools, install terlebih dahulu module : #</p>
-<p align='center'># pkg install play-audio #</p>
+<p align='center'>* sebelum menjalankan tools, install terlebih dahulu module : *</p>
+<p align='center'>pkg install play-audio</p>
 
 #
 ### Github Stats
@@ -12,4 +12,4 @@
 #
 <img src="https://i.ibb.co/30Kh3WM/20230228-061723.jpg">
 
-open source boot facebook
+open source facebook crack tools
