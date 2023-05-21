@@ -1,6 +1,6 @@
 <h3 align='center'>Au ah males</br>minimal kasih star lah</h3>
-<p align='center'>* sebelum menjalankan tools, install terlebih dahulu module : *</p>
-<p align='center'>pkg install play-audio</p>
+<p>sebelum menjalankan tools, install terlebih dahulu module : *</p>
+<p>  pkg install play-audio</p>
 
 #
 ### Github Stats
