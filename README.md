@@ -1,11 +1,11 @@
 <h3 align='center'>Au ah males</br>minimal kasih star lah</h3>
 <p>perintah menjalankan tools : </p>
-<p>  pkg install python</p>
-<p>  pkg install git</p>
-<p>  pip install requests</p>
-<p>  pkg install play-audio</p>
-<p>  cd tebakpw</p>
-<p>  python tebak.py</p>
+<p>   pkg install python</p>
+<p>   pkg install git</p>
+<p>   pip install requests</p>
+<p>   pkg install play-audio</p>
+<p>   cd tebakpw</p>
+<p>   python tebak.py</p>
 
 #
 ### Github Stats
